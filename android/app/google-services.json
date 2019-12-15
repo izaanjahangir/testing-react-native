@@ -1,0 +1,89 @@
+{
+  "project_info": {
+    "project_number": "752344078657",
+    "firebase_url": "https://izaan-app-testing.firebaseio.com",
+    "project_id": "izaan-app-testing",
+    "storage_bucket": "izaan-app-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752344078657:android:3e3c6c546cd473ae69e9c0",
+        "android_client_info": {
+          "package_name": "com.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752344078657-hhp1d8a00t0f9cc9u76du3487m2dnkfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsG5UQINh4iAE1GqWR_w34QLCvSO53kAY"
+        },
+        {
+          "current_key": "AIzaSyB_C95HKryutID5dgFEBq0QOZTOgYu3a20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752344078657-hhp1d8a00t0f9cc9u76du3487m2dnkfo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752344078657-bj6t8i46eei25ter5drfdemfka79p29c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wlw"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752344078657:android:c49c2358f3d1243869e9c0",
+        "android_client_info": {
+          "package_name": "com.testingcalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752344078657-hhp1d8a00t0f9cc9u76du3487m2dnkfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsG5UQINh4iAE1GqWR_w34QLCvSO53kAY"
+        },
+        {
+          "current_key": "AIzaSyB_C95HKryutID5dgFEBq0QOZTOgYu3a20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752344078657-hhp1d8a00t0f9cc9u76du3487m2dnkfo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752344078657-bj6t8i46eei25ter5drfdemfka79p29c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wlw"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
